@@ -252,6 +252,7 @@ img.selfphoto {
 	height: auto;
 }
 
+/*Media inqueries start here*/
   /* Width at 7680px and below */
 @media screen and (max-width: 768px) {
 	body {
