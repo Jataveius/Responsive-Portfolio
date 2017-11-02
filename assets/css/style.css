@@ -293,19 +293,16 @@ input[type=submit] {
 	}
 /* Footer */
 footer {
-	position: absolute;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	padding: 3em;
-	text-align: center;
-	font-size: 0.8em;
-	color: #cccccc;
-	background-color: #666666;
-	border-top: 7px solid #4aaaa5;
 	clear: both;
-}
-
+	margin: 0 auto;
+	vertical-align: middle;
+	padding: 18px;
+	height: 15%;
+	background-color: #666666;
+	width: 100%;
+	border-bottom: none;
+	color: #777777;
+	text-align: center;
 }
 
 /* Width at 640px and below */
