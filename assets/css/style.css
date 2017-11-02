@@ -303,9 +303,10 @@ footer {
 	color: #cccccc;
 	background-color: #666666;
 	border-top: 7px solid #4aaaa5;
-}
+	clear: both;
 }
 
+}
 
 /* Width at 640px and below */
 
@@ -320,6 +321,7 @@ footer {
 		/* Box-model */
 		width: 100%;
 		padding: 20px;
+		clear: both;
 	}
 	#main-content,
 	#sidebar {
